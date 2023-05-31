@@ -64,9 +64,9 @@ public class C03_findElements {
 
     }
 }
-   /*
-   Amazon sayfasına gıdınız
-   iphone aratınız
-   cıkan saonuc yazısını konsola yazdırınız
-   cıkan urunlerden ilk 5 tanesıne tıklayıp sayfa baslıklarını yazdırınız
- */
+            /*
+            Amazon sayfasına gıdınız
+            iphone aratınız
+            cıkan saonuc yazısını konsola yazdırınız
+            cıkan urunlerden ilk 5 tanesıne tıklayıp sayfa baslıklarını yazdırınız
+          */
