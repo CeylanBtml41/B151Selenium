@@ -43,8 +43,7 @@ public class C02_devami {
         WebElement ilkUrun = urunler.get(0);
 
         // ilk ürünün, görünür olup olmadıgını true, false seklinde yazdırın
-        System.out.println(ilkUrun.isDisplayed());//True
-
+        System.out.println(ilkUrun.isDisplayed());
         // ilk ürünün, erisilebilir olup olmadıgını true, false seklinde yazdırın
         System.out.println(ilkUrun.isEnabled());//True
 
